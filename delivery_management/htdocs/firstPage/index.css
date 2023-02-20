@@ -1,0 +1,26 @@
+.elemente-accordion > .accordion-body
+{
+  width: 120px;
+  height: 120px;
+  scale: 5;
+  background-color: #50C878;
+  color: #50C878;
+}
+html {
+    background-color: blue;
+  }
+
+h1
+{
+    color:#50C878;
+}
+
+.panel-default > .panel-heading {
+    background-color:pink;
+}
+
+.acordeon > .accordionFlushExample
+{
+    background-color:palevioletred;
+
+}
